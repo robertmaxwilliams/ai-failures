@@ -1,0 +1,111 @@
+32 Roman Yampolskiy, `Predicting Future AI Failures from Historic Examples' (2018) foresight 138-152 
+33 J.A. Rawlinson, `Report on the Therac-25' OCTRT/OCI Physicists Meeting (Kingston, Ontario 1987) 
+34 Saqib Shah, `Amazon Workers Hospitalized after Warehouse Robot Releases Bear Repellent' (engadget, 6 December 2018) <https://www.engadget.com/2018/12/06/amazon-workers-hospitalized-robot> accessed 20 January 2020 
+35 Tariq Tahir, 'Factory Robot Impales Worker with 10 Foot-long Steel Spikes after Horror Malfunction' (The Sun, 14 December 2018) <https://www.thesun.co.uk/news/7954270/factory-robot-malfunctions-and-impales-worker-with-10-foot-long-steel-spikes/> accessed 1 November 2019 
+36 John G. Fuller, `Death by Robot' (1984) Omni, 45-46, 97-102 
+37 Associated Press in Berlin, 'Robot Kills Worker at Volkswagen Plant in Germany' (The Guardian, 2 July 2015) <https://www.theguardian.com/world/2015/jul/02/robot-kills-worker-at-volkswagen-plant-in-germany> accessed 1 November 2019 
+38 Timothy B. Lee, 'Software Bug Led to Death in Uber's Selfdriving Crash' (ars Technica, 7 May 2018) <https://arstechnica.com/tech-policy/2018/05/report-software-bug-led-to-death-in-ubers-self-driving-crash/> accessed 20 January 2020 
+39 Faiz Siddiqui, 'NTSB "Unhappy" with Tesla Release of Investigative Information in Fatal Crash' (Washington Post, 1 April 2018) <https://www.washingtonpost.com/news/dr-gridlock/wp/2018/04/01/ntsb-unhappy-with-tesla-release-of-investigative-information -in-fatal-crash/> accessed 1 November 2019 40 Casey Ross and Ike Swetlitz, 'IBM's Watson Supercomputer Recommended "Unsafe and Incorrect" Cancer Treatments, Internal Documents Show' (Stat News, 25 July 2018) 
+40 <https:// www.statnews.com/2018/07/25/ibm-watson-recommended -unsafe-incorrect-treatments/> accessed 1 November 2019. 41 Homa Alemzadeh, Jaishankar Raman, Nancy Leveson, Zbigniew Kalbarczyk and Ravishankar K. Iyer, `Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data' (2016) 11 PLoS ONE 42 '2010 Flash Crash' (Wikipedia) 
+41 <https://en.wikipedia.org/wiki/2010_Flash_Crash> accessed 1 November 2019 43 Cory Mitchell, 'The Two Biggest Flash Crashes of 2015' (Investopedia, 25 June 2019) 
+42 <https://www.investopedia.com/articles/ investing/011116/two-biggest-flash-crashes-2015.asp> accessed 1 November 2019. 44 Gary Horcher, 'Amazon Alexa Recorded Private Conversation, Sent it to Random Contact, Woman Says' (WHBQ, 24 May 2018) 
+44 <https://www.fox13memphis.com/news/trending-now/amazon -alexa-recorded-private-conversation-sent-it-to-random-contact -woman-says/755720160> accessed 1 November 2019 45 Mark Gurman, 'Apple Bug Lets iPhone Users ListeninonOthersViaFaceTime'(Bloomberg,28January2019)
+45 <https://www.bloomberg.com/news/articles/2019-01-29/apple-bug-lets-iphone-users-listen-in-on-others-via-facetime> accessed 1 November 2019
+46 Kashmir Hill, '"God View": Uber Allegedly Stalked Users For Party-Goers' Viewing Pleasure' (Forbes, 3 October, 2014) <https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#4b7dd5593141> accessed 1 November 2019 
+47 Cyrus Farivar, 'Amazon's Recognition Messes Up, Matches 28 Lawmakers to Mugshots' (ars Technica, 26 July 2018) <https://arstechnica.com/tech-policy/2018/07/amazons-rekognition-messes-up-matches-28-lawmakers-to-mugshots/> accessed 1 November 2019 
+48 'Algorithmic Justice League' <https://www.ajlunited.org/> accessed 1 November 2019 
+49 Jana Kasperkevic, 'Google Says Sorry for Racist Auto-tag in Photo App' (The Guardian,1 July 2015) <https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app> accessed 1 November 2019 
+50 Matt Burgess, 'Facial Recognition Tech Used by UK Police is Making a Ton of Mistakes' (Wired UK, 4 May 2018) <https://www.wired.co.uk/article/face-recognition-police-uk-south-wales-met-notting-hill-carnival> accessed 1 November 2019 
+51 Xinmei Shen, 'Facial Recognition Camera Catches Top Vusinesswoman "Jaywalking" Because her Face Was on a Bus' (Abacus News, 22 November 2018) <https://www.abacusnews.com/digital-life/facial-recognition-camera-catches-top-businesswoman-jaywalking-because-her-face-was-bus/article/2174508> accessed 1 November 2019 
+52 WTF, 'Chinese Driver Fined for Scratching his Face after Passing AI Traffic Camera' (9gag, 26 May 2019) <https://9gag.com/gag/av8VBdd/chinese-driver-fined-for-scratching-his-face-after-passing-ai-traffic-camera> accessed 1 November 2019
+53 Willie James Inman, 'Traffic Camera in New Orleans Giving Speeding Tickets to Parked Cars' (Fox News, 11 April 2018) <https://www.foxnews.com/auto/traffic-camera-in-new-orleans-giving-speeding-tickets-to-parked-cars> accessed 1 November 2019 
+54 'Apple AI Accused of Leading to Man's Wrongful Arrest' (BBC News, 23 April 2019) <https://www.bbc.com/news/technology-48022890> accessed 1 November 2019 
+55 Jason Bailey, 'AI Artists Expose "Kinks" In Algorithmic Censorship' (Artnome, 11 December 2018) <https://www.artnome.com/news/2018/12/6/ai-artists-expose-kinks-in-algorithmic-censorship> accessed 1 November 2019 
+56 Nicol Turner Lee, Paul Resnick et al, 'Algorithmic Bias Detection and Mitigation: Best Practices and Policies to Reduce Consumer Harms' (Brookings Institute, 22 May 2019) <https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/> accessed 1 November 2019 
+57 James Cook, 'Amazon Scraps "Sexist AI" Recruiting Tool that Showed Bias Against Women' (The Telegraph, 10 October 2018) <https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/> accessed 1 November 2019 
+58 Ed Yong, 'A Popular Algorithm Is No Better at Predicting Crimes Than Random People' (The Atlantic, 17 January 2018) <https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/> accessed 1 November 2019 
+59 Jordan Pearson, 'Why An AI-Judged Beauty Contest Picked Nearly All White Winners' (Vice, 5 September 2016) <https://www.vice.com/en_us/article/78k7de/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners> accessed 1 November 2019
+60 James Titcomb, 'Robot Passport Checker Rejects Asian Man's Photo for Having his Eyes Closed' (The Telegraph, 7 December 2016) <https://www.telegraph.co.uk/technology/2016/12/07/robot-passport-checker-rejects-asian-mans-photo-having-eyes/> accessed 1 November 2019 
+61 Aylin B. Caliskan, `Semantics Derived Automatically from Language Corpora Contain Human-like Biases' (2017) Science 183-186 
+62 Sijia Jiang, 'Backing Big Brother: Chinese Facial Recognition Firms Appeal to Funds' (Reuters, 12 November 2017) <https://www.reuters.com/article/us-china-facialrecognition-analysis/backing-big-brother-chinese-facial-recognition-firms-appeal-to-funds-idUSKBN1DD00A> accessed 1 November 2019 
+63 Michael Grothaus, 'Now AI Easily Erases the Tiananmen Square Massacre from Online Memory' (Fast Company, 28 May 2019) <https://www.fastcompany.com/90355806/now-ai-easily-erases-the-tiananmen-square-massacre-from-online-memory> accessed 1 November 2019 
+64 J. Wright (Director) (2016) Black Mirror: Nosedive [Motion Picture] 
+65 'Social Credit System' (Wikipedia) <https://en.wikipedia.org/wiki/Social_Credit_System> accessed 1 November 2019 
+66 John Harris, 'The Tyranny of Algorithms is Part of our Lives: Soon They Could Rate Everything We Do ' (The Guardian, 5 March 2018) <https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data> accessed 1 November 2019 
+67 Stephen Chen, 'China's Schools are Quietly Using AI to Mark Students' Essays ... But do the Robots Make the Grade?' (South China Morning Post, 27 May 2018) <https://www.scmp.com/news/china/society/article/2147833/chinas-schools-are-quietly-using-ai-mark-students-essays-do> accessed 1 November 2019 
+68 Jamie Fullerton, '"Mind-reading" Tech Being Used to Monitor Chinese Workers' Emotions' (The Telegraph, 30 April 2018)
+<https://www.telegraph.co.uk/news/2018/04/30/mind-reading-tech-used-monitor-chinese-workers-emotions/> accessed 1 November 2019 
+69 Jiayun Feng, 'Chinese Parents Want Students to Wear Dystopian Brainwave-detecting Headbands' (supChina, 5 April 2019) <https://supchina.com/2019/04/05/chinese-parents-want-students-to-wear-dystopian-brainwave-detecting-headbands/> accessed 1 November 2019 
+70 Raina M. Merchant et, `Evaluating the Predictability of Medical Conditions from Social Media Posts' (2019) PLoS ONE 
+71 Yilun Wang and Michal Kosinski, `Deep Neural Networks are More Accurate than Humans at Detecting Sexual Orientation from Facial Images (2018) Journal of Personality and Social Psychology 246­257 
+72 Nina Avramova, 'AI Technology Can Identify Genetic Diseases by Looking at Your Face, Study Says' (CNN, 8 January 2019) <https://edition.cnn.com/2019/01/08/health/ai-technology-to-identify-genetic-disorder-from-facial-image-intl/index.html> accessed 1 November 2019 
+73 Sam Biddle, 'Homeland Security Will Let Computers Predict Who Might Be a Terrorist on Your Plane -- Just Don't Ask How It Works' (The Intercept, 3 December 2018) <https://theintercept.com/2018/12/03/air-travel-surveillance-homeland-security/> accessed 1 November 2019 
+74 'Smart Lie-detection System to Tighten EU's Busy Borders' (European Commission, 24 October 2018) <https://ec.europa.eu/research/infocentre/article_en.cfm?artid=49726> accessed 1 November 2019 
+75 Matt McFarland, 'Terrorist or Pedophile? This Start-up Says it Can Out Secrets by Analyzing Faces' (Washington Post, 24 May 2016) <https://www.washingtonpost.com/news/innovations/wp/2016/05/24/terrorist-or-pedophile-this-start-up-says-it-can-out-secrets-by-analyzing-faces/> accessed 1 November 2019
+76 'Forensic Gait Analysis' (Royal Society of Edinburgh, November 2017) <https://royalsociety.org/~/media/about-us/programmes/science-and-law/royal-society-forensic-gait-analysis-primer-for-courts.pdf> accessed 1 November 2019 
+77 'PredPol' <https://www.predpol.com/> accessed 1 November 2019 
+78 'Palantir' <http://www.palantir.com/> accessed 1 November 2019 
+79 Tristan Harris, 'How a Handful of Tech Companies Control Billions of Minds Every Day' (TED, April 2017) <https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention> accessed 1 November 2019 
+80 Ben Quinn and James Ball, 'US Military Studied How to Influence Twitter Users in Darpa-funded Research' (The Guardian, 8 July 2014) <https://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies> accessed 1 November 2019 
+81 Nafeez Ahmed, 'Pentagon Wants to Predict Anti-Trump Protests Using Social Media Surveillance' (Vice, 30 October 2018) <https://www.vice.com/en_us/article/7x3g4x/pentagon-wants-to-predict-anti-trump-protests-using-social-media-surveillance> accessed 1 November 2019 
+82 (n 19) 
+83 'Cambridge Analytica planted fake news' (BBC, 20 March 2018) <https://www.bbc.com/news/av/world-43472347/cambridge-analytica-planted-fake-news> accessed 1 November 2019 
+84 Emerging Technology from the arXiv, 'First Evidence That Social Bots Play a Major Role in Spreading Fake News' (Technology Review, 7 August 2017) <https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/> accessed 1 November 2019 
+85 Ben Collins, 'This Viral Schwarzenegger Deepfake isn't Just Entertaining. It's a Warning' (NBC News, 12 June, 2019) <https://www.nbcnews.com/tech/tech-news/viral-schwarzenegger-deepfake-isn-t-just-entertaining-it-s-warning-n1016851> accessed 1 November 2019
+86 Paul Bricman, 'DeepFake Ransomware' (Medium, 2 February 2019) <https://medium.com/@paubric/deepfake-ransomware-oaas-part-1-b6d98c305cd9> accessed 1 November 2019 
+87 Zack Whittaker, 'New Secret-spilling Flaw Affects Almost Every Intel Chip Since 2011' (Tech Crunch, 14 May 2019) <https://techcrunch.com/2019/05/14/zombieload-flaw-intel-processors/> accessed 1 November 2019 
+88 Elle Hunt, 'Tay, Microsoft's AI Chatbot, Gets a Crash Course in Racism from Twitter' (The Guardian, 24 March 2016) <https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter> accessed 1 November 2019 
+89 Dan Goodin, 'Digital Exchange Loses $137 Million as Founder Takes Passwords to the Grave' (ars Technica, 2 February 2019) <https://arstechnica.com/information-technology/2019/02/digital-exchange-loses-137-million-as-founder-takes-passwords-to-the-grave/> accessed 1 November 2019 
+90 Sara Chodosh, 'Wikipedia Bots Spent Years Fighting Silent, Tiny Battles with Each Other' (Popular Science, 27 February 2017) <https://www.popsci.com/wikipedia-bots-fighting/> accessed 1 November 2019 
+91 Alex Irpan, 'Deep Reinforcement Learning Doesn't Work Yet' (Sorta Insightful, 14 February 2018) <https://www.alexirpan.com/2018/02/14/rl-hard.html> accessed 1 November 2019 
+92 Matt Novak, 'Lime Scooters Hacked to Say Sexual Things to Riders in Australia' (Gizmodo, 24 April 2019) <https://gizmodo.com/lime-scooters-hacked-to-say-sexual-things-to-riders-in-1834264534> accessed 1 November 2019 
+93 Matthew Gault, 'Take Pictures of Fake Pizzas to Get a Free Pizza from Domino's' (Vice, 6 March 2019) <https://www.vice.com/en_us/article/kzdkgw/take-pictures-of-fake-pizzas-to-get-a-free-pizza-from-dominos> accessed 1 November 2019 
+94 David Farrier, 'The Mystery of Zach, New Zealand's all-too-miraculous medical AI' (The Spinoff, 6 March 2018) <https://thespinoff.co.nz/the-best-of/06-03-2018/the-mystery-of-zach-new-zealands-all-too-miraculous-medical-ai/> accessed 1 November 2019
+95 Noel Sharkey, 'Mama Mia It's Sophia: A Show Robot Or Dangerous Platform To Mislead?' (Forbes, 17 November 2018) <https://www.forbes.com/sites/noelsharkey/2018/11/17/mama-mia-its-sophia-a-show-robot-or-dangerous-platform-to-mislead/#4fabeea87ac9> accessed 1 November 2019 
+96 Margaret Mitchell, 'How We Can Build AI to Help Humans, Not Hurt Us' (TED, October 2017) <https://www.ted.com/talks/margaret_mitchell_how_we_can_build_ai_to_help_humans_not_hurt_us/transcript> accessed 1 November 2019 
+97 Facebook, 20 March 2019 <https://www.facebook.com/photo.php?fbid=10217225240875399> accessed 1 November 2019 
+98 Jodi Kantor, 'Working Anything but 9 to 5' (New York Times, 13 August 2014) <https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html> accessed 1 November 2019 
+99 Gary Rubinstein, 'Analyzing Released NYC Value-Added Data Part 2' (Teach for Us, 28 February 2012) <http://garyrubinstein.teachforus.org/2012/02/28/analyzing-released-nyc-value-added-data-part-2/> accessed 1 November 2019 
+100 Jane Wakefield, 'The Man Who Was Fired by a Machine' (BBC News, 21 June 2018) <https://www.bbc.com/news/technology-44561838> accessed 1 November 2019 
+101 Jamie Seidel, 'CIMON, the International Space Station's Artificial Intelligence, Has Turned Belligerent' (News Corp Australia, 5 December 2018) <https://www.news.com.au/technology/science/space/cimon-the-international-space-stations-artificial-intelligence-has-turned-belligerent/news-story/953a84bc8c4fe414eed2d0550e1d8bf4> accessed 1 November 2019 
+102 Will Knight, 'Tougher Turing Test Exposes Chatbots' Stupidity' (Technology Review, 14 July 2016) <https://www
+.technologyreview.com/s/601897/tougher-turing-test-exposes -chatbots-stupidity/> accessed 1 November 2019 
+103 Daniel Oberhaus, `Watch This Hilarious Bitcoin Explainer Generated by an AI' (Vice, 23 May 2018) <https://www.vice.com/en_us/article/xwmy9a/watch-botnik-ai-bitcoin-explainer> accessed 01 November 2019 
+104 Drew Schwartz, `AI Predicted the Future of Porn Searches and We Can't Stop Laughing' (Vice, 6 March 2018) <https://www.vice.com/en_us/article/bj54xv/ai-predicted-the-future-of-porn-searches-and-we-cant-stop-laughing-vgtrn> accessed 01 November 2019 
+105 Sam Machkovech, `A Years-old, One-letter Typo Led to Aliens: Colonial Marines' Weird AI' (ars Technica, 13 July 2018) <https://arstechnica.com/gaming/2018/07/a-years-old-one-letter-typo-led-to-aliens-colonial-marines-awful-ai/> accessed 01 November 2019 
+106 Jesse Newton (Facebook, 9 August 2016) <https://www.facebook.com/jesse.newton.37/posts/776177951574> accessed 01 November 2019 
+107 `E-mail Error Ends up on Road Sign' (BBC, 31 October 2008) <http://news.bbc.co.uk/2/hi/7702913.stm> accessed 01 November 2019 
+108 David Z. Morris, `Artificial Intelligence Fails on Kentucky Derby Predictions' (Fortune, 7 May 2017) <https://fortune.com/2017/05/07/artificial-intelligence-kentucky-derby-predictions/> accessed 01 November 2019 
+109 Janelle Shane, `Do Neural Nets Dream of Electric Sheep?' (AI Weirdness, 18 March 2018) <https://aiweirdness.com/post/171451900302/do-neural-nets-dream-of-electric-sheep> accessed 01 November 2019
+110 Rachel Sandler, `Some Amazon Echo Devices Are Spontaneously Laughing, And Nobody Knows Why' (Science Alert, 7 March 2018) <https://www.sciencealert.com/amazon-echo-devices-are-creepily-laughing-at-people> accessed 01 November 2019 
+111 Victoria Krakovna, `Specification Gaming Examples in AI' (2 April 2018) <https://vkrakovna.wordpress.com/2018/04/02/specification-gaming-examples-in-ai/> accessed 01 November 2019 
+112 Devin Coldewey, `This Clever AI Hid Data from its Creators to Cheat at its Appointed Task' (techcrunch, 31 December 2018) <https://techcrunch.com/2018/12/31/this-clever-ai-hid-data-from-its-creators-to-cheat-at-its-appointed-task/> accessed 01 November 2019 
+113 Tom Simonite, `The AI Text Generator That's Too Dangerous to Make Public' (Wired, 14 February 2019) <https://www.wired.com/story/ai-text-generator-too-dangerous-to-make-public/> accessed 01 November 2019 
+114 Janelle Shane, `When Algorithms Surprise Us' (AI Weirdness, 13 April 2018) <https://aiweirdness.com/post/172894792687/when-algorithms-surprise-us> accessed 01 November 2019 
+115 Joel Lehman et al, `The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation
+116 Kenneth O. Stanley et al, `Real-time Neuroevolution in the NERO Video Game' (2005) 9 IEEE Transactions on Evolutionary Computation 653­668 
+117 David E. Moriarty and Risto Miikkulainen, `Forming Neural Networks through Efficient and Adaptive Co-evolution' (1997) 5 Evolutionary Computation 373­399 
+118 Laura M. Grabowski et al, `A Case Study of the De Novo Evolution of a Complex Odometric Behavior in Digital Organisms (2013) 8 PLoS One e60466 
+119 Karl Sims, `Evolving Virtual Creatures' (1994) Proceedings of the 21st Annual Conference on Computer Graphics and Interactive Techniques 15­22 
+120 Sara Mitri, `The Evolution of Information Suppression in Communicating Robots with Conflicting Interests' (2009) Proceedings of the National Academy of Sciences 15786­15790 
+121 Thomas K. Hindré, `New Insights into Bacterial Adaptation Through In Vivo and In Silico Experimental Evolution' (2012) 10 Nature Reviews Microbiology 352­365
+122 Karl Sims, `Evolving 3D Morphology and Behavior by Competition' (1994) 1 Artificial Life 353­372 
+123 Ecarlat, `Learning a High Diversity of Object Manipulations Through an Evolutionary-based Babbling' (2015) Proceedings of Learning Objects Affordances Workshop at IROS, 1-2 
+124 Thom Ray, `J'ai Joué à Dieu et Créé la Vie Dans Mon Ordinateur' (1992) Le Temps Stratégique 68­81 
+125 Watson, `Embodied Evolution: Distributing an Evolutionary Algorithm in a Population of Robots' (2002) 39 Robotics and Autonomous Systems 1­18 
+126 `The Artificial Intelligence That Deleted A Century' (YouTube) <https://www.youtube.com/watch?v=-JlxuQ7tPgQ> accessed 01 November 2019 
+127 Andy Greenberg, `Biohackers Encoded Malware in a Strand of DNA' (Wired, 9 October 2017) <https://www.wired.com/story/malware-dna-hack/> accessed 01 November 2019 
+128 Jack Williamson, With Folded Hands (Fantasy Press 1947) 
+129 `Slaughterbots' (YouTube) <https://www.youtube.com/watch?v=9CO6M2HsoIA> accessed 01 November 2019 
+130 `Ban Lethal Autonomous Weapons' <https://autonomousweapons.org/> accessed 01 November 2019 
+131 Charles Perrow, Normal Accidents: Living with High Risk Technologies (Princeton University Press 2011)
+132 Matthijs Maas, Regulating for `Normal AI Accidents': Operational Lessons for the Responsible Governance of Artificial Intelligence Deployment (2018) AIES'8 223-228 
+133 `Slaughterbots' (YouTube) <https://www.youtube.com/watch?v=9CO6M2HsoIA> accessed 01 November 2019 
+134 Nick Hynes, `Efficient Privacy-Preserving ML Using TVM' (TVM, 9 October 2018) <https://tvm.ai/2018/10/09/ml-in-tees.html> accessed 1 November 2019. 135 Morten Dahl, `Private Image Analysis with MPC Training CNNs on Sensitive Data' (Cryptography and Machine Learning, 19 September2017)
+<https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/>accessed1November2019136(DataSelfie)<https://dataselfie.it/> accessed 1 November 2019
+141 (n 17) 
+142 Avishek Bose and Parham Aarabi, `Adversarial Attacks on Face Detectors using Neural Net based Constrained Optimization' <https://joeybose.github.io/assets/adversarial-attacks-face.pdf> accessed 1 November 2019 
+143 Janelle Shane, `What is the Opposite of Guacamole? ' (AI Weirdness, 10 May 2019) <https://aiweirdness.com/post/184781529122/what-is-the-opposite-of-guacamole> accessed 1 November 2019 
+144 William Bogard, The Bhopal Tragedy (Westview Press 1989)
+
+

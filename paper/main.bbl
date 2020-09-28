@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{anderson2005control}
+Brian D.~O. Anderson.
+\newblock Failures of adaptive control theory and their resolution.
+\newblock {\em Commun. Inf. Syst.}, 5(1):1--20, 2005.
+
+\bibitem{carvin2017normal}
+Stephanie Carvin.
+\newblock Normal autonomous accidents: What happens when killer robots fail?
+\newblock {\em Carleton University}, 2017.
+
+\bibitem{cook1998complex}
+Richard~I. Cook.
+\newblock How complex systems fail.
+\newblock {\em Cognitive Technologies Labratory}, 1998.
+
+\bibitem{humbatova2019taxonomy}
+Nargiz Humbatova, Gunel Jahangirova, Gabriele Bavota, Vincenzo Riccio, Andrea
+  Stocco, and Paolo Tonella.
+\newblock Taxonomy of real faults in deep learning systems, 2019.
+
+\bibitem{maas2018regulating}
+Matthijs Maas.
+\newblock Regulating for 'normal ai accidents': Operational lessons for the
+  responsible governance of artificial intelligence deployment.
+\newblock pages 223--228, 12 2018.
+
+\bibitem{uesato2018adversarial}
+Jonathan Uesato, Ananya Kumar, Csaba Szepesv{\'{a}}ri, Tom Erez, Avraham
+  Ruderman, Keith Anderson, Krishnamurthy Dvijotham, Nicolas Heess, and
+  Pushmeet Kohli.
+\newblock Rigorous agent evaluation: An adversarial approach to uncover
+  catastrophic failures.
+\newblock {\em CoRR}, abs/1812.01647, 2018.
+
+\bibitem{wallace2018landscapes}
+Rodrick Wallace.
+\newblock Failure of real-time multi-component, multi-level cognitive systems
+  on clausewitz landscapes.
+\newblock {\em The New York State Psychiatric Institute}, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,115 @@
+\documentclass[11pt]{article}
+\usepackage{cite}
+\usepackage[useregional]{datetime2}
+\usepackage{babel}
+\usepackage{dirtytalk}
+
+
+
+\begin{document}
+
+\title{Data Driven AI Failure Avoidance}
+\author{Max Williams \\ University of Louisville \and Roman Yampolskiy \\ University of Louisville}
+\date{\today}
+\maketitle
+
+\abstract{
+As we assign tasks of greater importance to AI in greater quantity, the rate and severity of both
+benign and catastrophic AI failures increases. In this paper, we review data collected on AI
+failures and discover trends in their occurance. Based on these trends we estimate existential risk
+and recommend countermeasures to minimize existential risk with minimal socioeconimic damage.
+}
+
+\section{Introduction}
+
+With current AI technologies, harm done by AIs is limited to power that we directly put in their
+hands.  As said in \cite{yam2018timeline}, ``For Narrow AIs, safety failures are at the same level
+of importance as in general cybersecurity, but for AGI it is fundamentally different.'' 
+
+By combining
+our existing knowledge on bad things that have happened and our wild guesses about things that
+could happen, we can really do some solid guessing toward what kind of problems we could see in the
+near future. Far future, maybe not, and this really doesn't work for AGI because it'll probably get
+completely, categorically different from current AI. Like currently we're like uh oh we put
+computers in charge of stocks and they blew it up. The point being that WE put them in charge of
+stocks, and they stayed in the box. Once the AI can leave the box we assign it to (even for in-box
+related goals) then these kind of failures become the only-make-them-once sort of failures. 
+
+\section{Data Collection}
+
+We collected data from \cite{yam2018timeline} and \cite{yam2019classification}, as well as from
+online sources listed in the appendix and classfied it using a modified form of the schema presented
+in \cite{yam2019classification}. 
+
+DATA DATA DATDA DATA
+
+MAYBE SOME CHARTS
+
+\section{Data Analysis}
+
+\marginpar{The data analysis is made up - still have to do this and will change is results differ}
+
+Based on this data, we can model the severity of ai failures as a (some probability distribution)
+and predict that a 1 million dollar failure has an expected wait time of 10 years, and a world
+ending event it expected every 200 years at current levels, with a 10\% chance of happening in the
+next 50 years.
+
+Using the above model to try to tweak our situation to make these numbers better is a bad idea - we
+would just overfit. The only solution is to stop all value producing activity.
+
+
+
+
+
+
+\section{existing work}
+
+\section{paper notes}
+
+\cite{uesato2018adversarial}
+
+20 pages, focused on rl training safe driverless card. Problem is that evaluating rl agaents
+can take longer than training them, so add an adversary that evaluates them on the hard stuff,
+like a driving instructor skipping straight to tight parallel parking when they see you're good
+
+Doesn't actually list any failures
+
+\cite{wallace2018landscapes}
+
+33 pages. I like this already, taking the analogy of organizations as agents seriously.
+
+This is a really complex paper, beyond me in a lot of ways but really neat.
+
+\cite{anderson2005control}
+
+20 pages. This is basically one big failure example, about a specific technique called ``adaptave
+control". It also includes details about an overreaction to these failures, followed by ``don't use
+it unless it's applicable" advice which has to be hammered into the naive buyers of COTS AI
+software.
+
+\cite{cook1998complex}
+
+5 pages. \say{Post-accident attribution accident to a \say{root cause} is fundamentally wrong.}
+
+Outch, okay yeah I get it. Damn.
+
+\cite{carvin2017normal}
+
+Uses \say{Charles Perrow’s Normal Accident Theory} which might be of use to me since I'm doing
+similar analysis but for all of society instead of just autonamous weapons.
+
+\cite{maas2018regulating}
+\cite{humbatova2019taxonomy}
+
+TODO get yam's papers in here
+
+\subsection{categorizations and their data}
+
+\section{unified categorization and how much data we got yeeeah}
+
+So I like the tag based system, and title + link + short description is a pretty good way to go. The
+tags all seem pretty distinct and nessesary, but are tricky to convert between.
+
+\bibliography{mybib}{}
+\bibliographystyle{plain}
+\end{document}

@@ -1,0 +1,9 @@
+paper/main.aux
+paper/main.bbl
+paper/main.blg
+paper/main.log
+
+pdfs/*
+*.DS_Store
+*.swp
+other-thesi/*

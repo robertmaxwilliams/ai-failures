@@ -1,5 +1,5 @@
-#!/usr/local/bin/fish
+#!/usr/bin/bash
 pdflatex main
-bibtext mybib
+bibtex main.aux
 pdflatex main
-cp main.pdf "main"(date "+%b%d")".pdf"
+cp main.pdf $(date "+main%b%d.pdf")

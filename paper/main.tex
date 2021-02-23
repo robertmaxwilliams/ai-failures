@@ -4,6 +4,7 @@
 \usepackage{babel}
 \usepackage{graphicx}
 
+\usepackage{multirow}
 \usepackage{dirtytalk}
 \usepackage{geometry}
 \geometry{
@@ -77,7 +78,6 @@ stress. Slack also refers to the divergence of mnetal models used by operators, 
 redundancy that makes it more likely that a problem is solved correctly.
 
 \section{Related work}
-
 
 Risk of failure is a property inherent to complex systems, and complex systems are inherently
 hazardous \cite{cook1998complex}.  At a large enough scale, any system will produce ``Normal
@@ -153,7 +153,7 @@ off-topic]
 Normal accident theory holds that for certain kinds of industries systems accidents are inevitable.
 Meanwhile, high reliability theory makes the observation that there are many exceptions to this, and
 there are common traits shared by these ``high reliability organizations" (HROs) that can be studied
-and understood as indicators of reliability. In \cite{shrivastave2009normal}, Shrivastava et al
+and understood as indicators of reliability. In \cite{shrivastava2009normal}, Shrivastava et al
 analyze works which frame these two theories as being in conflict then reconcile the two theories.
 
 Normal accident theory states that a system has to choose to trade off between centralization (which
@@ -233,45 +233,98 @@ increasing wealth disparity [TODO find a citation that isn't a news source]. Thi
 example of AI interacting with a complicated system (in this case, the job market) to have large
 scale consequences. 
 
+\subsection{AI Safety}
+
+The field of AI safety focuses on long-term risks associated with the creation of AGI. This includes
+problems such as AI boxing [], reward hacking [], perverse instantiation [], and alignment []. In
+this paper we are concerned mostly with engineering applications of existing AI instead of novel
+dangers from research into AI. However, there is a some overlap between AI safety concerns
+and historical AI failures. The AI boxing problem states that a sufficiently intelligent AI can
+escape from the ``AI box" which is designed to trap it inside while allowing humans to gainfully
+communicate with it. Putting aside issues such as the AI using its computer hardware to manufacture
+nanobots or send radio signals to nearby computers, the AI in the box is still theoretically
+dangerous. If sufficiently intelligent, it would be able to socially manipulate its human
+gatekeepers into releasing it. The illustrates a more general concern which is the AI acting outside
+of the output space that it was designed to work with. In 2018, an AI designed to maximize the score
+in a video game instead performed a series of seemingly random actions which caused the score to
+increase rapidly without continuing to progress in the game \cite{chrabaszcz2018qbert}. In this
+example, the AI is supposed to be using the game controller output to move the character around the
+screen to play the game and mazimize the score, but it instead learned to hack the game and obtain
+a much higher score than is conventionally possible.
+
+ \cite{yam2018historic}
 
 \section{Classification schema for AI systems}
 \label{sec:classification}
 
-We present a tags based scheme adapted from the one presented in \cite{scott2020classification}.
-Instead of focusing on AI failures, this schema classifies the AI systems themselves, allowing for
-risk analysis prior to failure or additional failures of the system. We pay particular attention to
-the orientation of the AI system as both a system with its own components prone to failure and a
-component in a larger system which depends on the AI to some degree. Any analysis attempting to
-divide a system into components must acknowledge the `ambiguities, since once could argue
-interminably over the dividing line between part, unit, and subsystem' \cite{perrow1999living}.
-\marginpar{TODO read \cite{perrow1999living} so I'm not poaching this citation from
-\cite{shrivastave2009normal}}
+\begin{table}[]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\multirow{2}{*}{Coupling} & \multicolumn{3}{l|}{Interaction} \\ \cline{2-4}
+        & Linear & Moderate & Complex \\ \hline
+High    & M      & H        & C       \\ \hline
+Medium  & L      & M        & H       \\ \hline
+Low     & L      & L        & M       \\ \hline
+\end{tabular}
+\caption{Using coupling and interaction level to determine the severity of accident the system may
+    experience. Adapted from \cite{shrivastava2009normal}.}
+\label{tab:nat}
+\end{table}
 
-To characterize the risk of an AI system, one of the most important factors is identifying the
+\begin{table}[]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\multirow{2}{*}{Energy Level} & \multicolumn{3}{l|}{Knowledge Gap} \\ \cline{2-4}
+     & Low & Med & High \\ \hline
+High & H3  & H3  & C4   \\ \hline
+Med  & M3  & M3  & H4   \\ \hline
+Low  & L2  & L2  & M4   \\ \hline
+\end{tabular}
+\caption{Using energy level and knowledge gap to determine amount of damage (Low, Medium, High,
+Catastrophic) and distance to potential victims (1st party, 2nd party, 3rd party, 4th party).
+Adapted from \cite{shrivastava2009normal}.}
+\label{tab:nat2}
+\end{table}
+
+We present a tags based scheme adapted from the one presented in \cite{scott2020classification}.
+Instead of focusing on AI failures, this schema classifies the AI and the system the AI is embedded
+in, allowing for risk analysis prior to failure. We pay
+particular attention to the orientation of the AI system as both a system with its own components
+prone to failure and a as component in a larger system which depends on the AI to some degree. Any
+analysis attempting to divide a system into components must acknowledge the `ambiguities, since once
+could argue interminably over the dividing line between part, unit, and subsystem'
+\cite{perrow1984living}.  
+
+To characterize the risk of an AI system, we first identify the
 larger system in which the AI is a component. In an experimental setting, a genetic algorithm
 hacking the simulator can be an amusing bug \cite{lehman2018surprising}, but a similar bug making
-its way into an autonomous vehicle or industrial control system would be potentially extremely
-dangerous. We look at the way an AI system is used as a component in three ways: (1) the intended
-use of the AI, (2) the way the AI is marketed, and (3) the way the AI is actually being implemented.
-Disparity between (1) and (2) can be caused by hype among those seeking profit from AI and poor
-communication between engineers and salespeople. Disparity between (2) and (3) can be caused by
-ignorance on the part of the buyer, lack of accessible instructional material, and intentional
-off-label use where the AI is good enough at the task despite not being designed for it. (TODO go on
-to argue that this separation between AI design by engineers and AI implementation is very common
-and a notable contributor to failure of AI systems acting as components in larger systems)
+its way into an autonomous vehicle or industrial control system would be potentially
+dangerous.
 
-At the current technological scale, AI are not dangerous in isolation [TO CITE]. Their outputs must
-be connected to some means of control. This can take many forms: indirectly, with AI informing humans
-who then make decisions, or directly with an AI controlling the actuators of a robot or chemical
-plant. Any useful AI system has some degree of control over the world, and it may not be clear where
-the effects of the AI take place. This connection, where the output of a component (the AI) has
-significant effects on other components or system properties is an instance of coupling. Because
-there are multiple components affected by the AI and those components are themselves coupled with
-other components, we frame this problem in terms of the AI and a `target' which the AI can affect.
-For example, an AI meant to control the flow speed of a dam controls electrical signals from itself
-to the flow regulator, the actuators of the flow regulator, the flow speed of the water, and the
-volume of water deposited downstream in an interval of time. All four angles have unique
-consequences the might be overlooked in analyzing just one of these targets.
+AI safety frequently addresses dangers associated with artificial general intelligence (AGI) and
+superhuman intelligence. In this paper we give a cursory overview of the dangers of AGI, and
+consider certain classes of contemporary AI which exibit some of the dangers that true AGI could
+manifest. We also include a risk factor for research which may lead to the development of AGI in our
+analysis. These dangers will be refered to as ``emergent agency risks" which are treated from an AI
+safety perspective as opposed to the component and system level risks which can be studied from a
+systems theory perspective.
+
+The AIs outputs must be connected to some means of control to be useful within the system. This can
+take many forms: indirectly, with AI informing humans who then make decisions, or directly with an
+AI controlling the actuators of a robot or chemical plant. Any production AI system has some degree
+of control over the world, and it may not be clear where the effects of the AI take place. This
+connection, where the output of a component (the AI) has significant effects on other components or
+system properties is an instance of coupling. Because there are multiple components affected by the
+AI and those components are themselves coupled with other components, we frame this problem in terms
+of the AI and a `target' which the AI can affect.  For example, the output from an AI meant to
+control the flow speed of a valve in a chemical plant can be framed in numerous ways: the software
+signal with the computer the AI is running in, the electrical output from the controller, the
+actuation of valve, the rate of fluid flowing through the valve, or a variable in the chemical
+reaction taking place downstream. Understandin what the target of the AI is depends on context, and
+all of these targets have unique consequences the might be overlooked in analyzing just one of them.
+The classification schema allows for as many targets as needed when analyzing a system.
 
 Observability of the warning signs of an accident is important as it allows for interventions by
 human operators, a crucial tool in preventing accidents (``People continuously create safety''
@@ -286,7 +339,7 @@ human operators, a crucial tool in preventing accidents (``People continuously c
 The time delay between an AI creating an output and that output affecting the target is essential to
 preventing accidents.  Tightly coupled systems with short time delays (such as automated stock
 trading) are more hazardous because the system can go from apparent normalcy to catastrophe faster
-than operators can realize there is something wrong [TODO CITE the flash crash].
+than operators can realize there is something wrong \cite{andrei2017flash}.
 
 Observability and attention from human operators are needed for these time delays to be an effective
 component of safety. As the level of automation of a system increases, human operators become less
@@ -321,7 +374,7 @@ considerations are likely to become arbitrary.
     \centering
     \includegraphics[width=0.25\textwidth]{images/reframed-nat-2axis}
     \caption{Plotting energy level against knowledge gap to create 4 quadrants, from
-    \cite{shrivastave2009normal}}
+    \cite{shrivastava2009normal}}
     \label{fig:quad}
 \end{figure}
 

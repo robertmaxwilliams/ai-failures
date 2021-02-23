@@ -1,7 +1,11 @@
 paper/main.aux
 paper/main.bbl
+paper/main.pdf
 paper/main.blg
 paper/main.log
+paper/main.aux
+*.pdf
+
 
 pdfs/*
 *.DS_Store

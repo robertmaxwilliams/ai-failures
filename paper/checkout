@@ -1,2 +1,2 @@
-#!/usr/local/bin/fish
-echo (date "+%D") (wc main.tex) >> wclog.txt
+#!/bin/sh
+echo $(date "+%D") $(wc main.tex) >> wclog.txt

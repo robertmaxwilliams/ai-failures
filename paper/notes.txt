@@ -1,3 +1,14 @@
+%%https://research.aimultiple.com/manufacturing-ai/
+%%https://www.smartcitylab.com/blog/digital-transformation/singapore-experiments-with-its-digital-twin-to-improve-city-life/
+%%https://www.3ds.com/customer-stories/single/virtual-singapore/
+%\subsection{Digital Twin of Singapore}
+%
+%AI component to be analyzed: Crowd simulation
+%
+%Disparity between design and marketing: The digital twin was designed to be used to test changes to
+%buildings and roads
+
+%% Ugh it's way too big and nebulous for me to understand
 
 Some ideas for kinds of failures:
 

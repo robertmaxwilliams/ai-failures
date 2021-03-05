@@ -1,5 +1,12 @@
 #!/usr/bin/bash
-pdflatex main
-bibtex main.aux
-pdflatex main
+pdflatex main -interaction batchmode &> /dev/null
+echo ""
+echo "bibtex:"
+echo ""
+bibtex main.aux 2>&1 | grep -i "warning\|error"
+pdflatex main -interaction batchmode &> /dev/null
+echo ""
+echo "pdflatex:"
+echo ""
+pdflatex main 2>&1 | grep -i "warning\|error"
 cp main.pdf $(date "+main%b%d.pdf")
